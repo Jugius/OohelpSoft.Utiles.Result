@@ -1,0 +1,1 @@
+# OohelpSoft.Utiles.Result
