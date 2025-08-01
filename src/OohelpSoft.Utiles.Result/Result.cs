@@ -1,4 +1,6 @@
-﻿
+﻿using System;
+using System.Threading.Tasks;
+
 namespace OohelpSoft.Utiles.Result;
 public class Result : IResultOrError<Exception>
 {

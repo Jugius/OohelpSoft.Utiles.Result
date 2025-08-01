@@ -1,4 +1,5 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System;
+using System.Threading.Tasks;
 
 namespace OohelpSoft.Utiles.Result;
 public class Result<TValue> : Result, IResultOrError<TValue, Exception>
