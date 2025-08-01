@@ -1,1 +1,1 @@
-# OohelpSoft.Utiles.Result
+# Result Pattern in C#
