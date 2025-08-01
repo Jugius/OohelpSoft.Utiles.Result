@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<AssemblyName>OohelpSoft.Utiles.Result</AssemblyName>
+
+	<Version>1.1.0</Version>
+	<Authors>OoHelp.Net</Authors>
+	<Company>OoHelp.Net</Company>
+	<PackageId>$(AssemblyName)</PackageId>
+	<Copyright>OoHelp.Net</Copyright>
+	<Description>Result Pattern</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
